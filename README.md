@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Sandeep Balli 👋
 
-<!--
-**SandeepBalli-Dev/SandeepBalli-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Backend Developer | Java & Spring Boot Enthusiast
 
-Here are some ideas to get you started:
+🚀 Passionate about building clean, scalable backend systems and microservices that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💾 **Tech Stack:**  
+Java • Spring Boot • REST APIs • MySQL • MongoDB • Kafka
+
+☁️ Exploring cloud technologies & DevOps: AWS | Docker | Kubernetes
+
+🔍 Always eager to learn new tools and improve system design and performance.
+
+---
+
+### 📫 Connect with me:  
+[LinkedIn](https://linkedin.com/in/sandeep-balli)
+
+---
+
+⚡ Fun fact: I love diving into complex backend challenges and turning them into elegant, efficient solutions.
+
+🌍 Available for remote roles & collaborations — let's build something amazing together!
